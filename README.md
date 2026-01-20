@@ -1,4 +1,4 @@
-<h1>📝 Habit Tracker - Laravel Edition <h1>
+📝 Habit Tracker - Laravel Edition 
 O Habit Tracker é um sistema robusto para gerenciamento e acompanhamento de hábitos diários. Desenvolvido com Laravel, o projeto foca em ajudar usuários a manterem a consistência em suas rotinas através de uma interface intuitiva e métricas de progresso.
 
 ✨ Funcionalidades
